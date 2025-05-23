@@ -20,9 +20,12 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Senior data science student and minoring software engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+I work as a researcher and a teaching assistant at the German International University while simultaneously pursuing my master's degree in data science there.
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 
-- :telescope: I have done data science intern for 3 months and I will do a 6 month internship to be graduated from university 
+- :telescope: I have completed a 3-month data science internship, gaining foundational skills in data analysis.
+Followed by a 6-month internship at Orange Business as an L2 Big Data Engineer, where I worked on large-scale data processing.
+Subsequently, I undertook a 3-month internship with Connected Vision Company as a Data and Market Research Intern, focusing on market analysis and data-driven insights.
 
 - :seedling: Exploring Technical Content and reading books.
 
